@@ -1902,8 +1902,7 @@
 		"or": "or"
 	},
 	"download_files": {
-		"title": "Save file",
-		"message": "Where do you want this file to be saved?",
-		"error": "Failed to download attachment."
+		"error": "Failed to download attachment.",
+		"unknownError": "Unknown error occurred"
 	}
 }
