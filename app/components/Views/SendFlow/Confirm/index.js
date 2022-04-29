@@ -87,6 +87,7 @@ import {
 } from '../../../../util/address';
 import { KEYSTONE_TX_CANCELED } from '../../../../constants/error';
 import { ThemeContext, mockTheme } from '../../../../util/theme';
+import WarningMessage from '../WarningMessage';
 
 const EDIT = 'edit';
 const EDIT_NONCE = 'edit_nonce';
@@ -1567,6 +1568,14 @@ class Confirm extends PureComponent {
               <Text style={styles.error}>{warningGasPriceHigh}</Text>
             </View>
           )}
+
+{this.state.gasSelected === AppConstants.GAS_OPTIONS.LOW && (
+                        <WarningMessage
+                            style={styles.actionsWrapper}
+                            warningMessage={strings('edit_gas_fee_eip1559.low_fee_warning')}
+                        />
+                    )}
+					
           <View style={styles.actionsWrapper}>
             {showHexData && (
               <TouchableOpacity
