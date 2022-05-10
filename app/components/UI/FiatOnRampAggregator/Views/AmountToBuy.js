@@ -190,7 +190,7 @@ const AmountToBuy = () => {
     'getCryptoCurrencies',
     selectedRegion?.id,
     selectedPaymentMethodId,
-    selectedFiatCurrencyId || '',
+    selectedFiatCurrencyId,
   );
 
   const [
@@ -219,8 +219,8 @@ const AmountToBuy = () => {
     'getLimits',
     selectedRegion?.id,
     selectedPaymentMethodId,
-    selectedAsset?.id || '',
-    selectedFiatCurrencyId || '',
+    selectedAsset?.id,
+    selectedFiatCurrencyId,
   );
 
   /**

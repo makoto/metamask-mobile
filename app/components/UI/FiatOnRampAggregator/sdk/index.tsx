@@ -232,6 +232,15 @@ export function useSDKMethod<T extends keyof RegionsService>(
 
   const query = useCallback(
     async (...customParams: Parameters<RegionsService[T]> | []) => {
+      if (
+        (customParams.length > 0 && customParams.some((param) => !param)) ||
+        (customParams.length === 0 &&
+          params.length > 0 &&
+          params.some((param) => !param))
+      ) {
+        return;
+      }
+
       try {
         setIsFetching(true);
         if (sdk) {
