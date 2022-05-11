@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(αποθηκεύτηκε για 1 λεπτό)",
     "private_key_copied": "Το ιδιωτικό κλειδί αντιγράφηκε προσωρινά στο πρόχειρο",
     "private_key_copied_time": "(αποθηκεύτηκε για 1 λεπτό)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Λανθασμένος κωδικός",
     "unknown_error": "Δεν μπορέσαμε να ξεκλειδώσουμε τον λογαριασμό σας. Παρακαλούμε δοκιμάστε πάλι.",
     "hardware_error": "Αυτός είναι ένας λογαριασμός πορτοφολιού εξοπλισμού, δεν μπορείτε να πραγματοποιήσετε εξαγωγή του ιδιωτικού σας κλειδιού.",

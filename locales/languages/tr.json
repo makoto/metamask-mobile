@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(1 dakika boyunca saklanır)",
     "private_key_copied": "Özel anahtar geçici olarak panoya kopyalandı",
     "private_key_copied_time": "(1 dakika boyunca saklanır)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Şifre yanlış",
     "unknown_error": "Hesabınızın kilidi açılamadı. Lütfen tekrar deneyin.",
     "hardware_error": "Bu bir donanım cüzdanı hesabıdır, özel kilidinizi dışa aktaramazsınız.",

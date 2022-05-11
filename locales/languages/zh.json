@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "（存储时间为1分钟）",
     "private_key_copied": "私钥已复制到剪贴板",
     "private_key_copied_time": "（存储时间为1分钟）",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "密码不正确",
     "unknown_error": "无法解锁您的账户。请重试。",
     "hardware_error": "此为硬件钱包账户，您无法导出您的私钥。",

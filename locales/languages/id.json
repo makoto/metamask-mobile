@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(disimpan selama 1 menit)",
     "private_key_copied": "Kunci pribadi untuk sementara disalin ke papan klip",
     "private_key_copied_time": "(disimpan selama 1 menit)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Kata sandi salah",
     "unknown_error": "Tidak dapat membuka akun Anda. Silakan coba lagi.",
     "hardware_error": "Ini merupakan akun dompet perangkat keras, Anda tidak dapat mengekspor kunci pribadi.",

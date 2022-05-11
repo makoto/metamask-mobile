@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(almacenada por 1 minuto)",
     "private_key_copied": "Clave privada copiada en el Portapapeles",
     "private_key_copied_time": "(almacenada por 1 minuto)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Contraseña incorrecta",
     "unknown_error": "No se pudo desbloquear la cuenta. Vuelva a intentarlo.",
     "hardware_error": "Esta es una cuenta de cartera de hardware, no puede exportar su clave privada.",

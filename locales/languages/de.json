@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(für 1 Minute gespeichert)",
     "private_key_copied": "Privater Key temporär in die Zwischenablage kopiert",
     "private_key_copied_time": "(für 1 Minute gespeichert)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Falsches Passwort",
     "unknown_error": "Konto konnte nicht entsperrt werden. Bitte versuchen Sie es erneut.",
     "hardware_error": "Dies ist ein Hardware-Wallet-Konto. Sie können Ihren privaten Schlüssel nicht exportieren.",

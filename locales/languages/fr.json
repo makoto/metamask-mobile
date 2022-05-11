@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(conservée pendant 1 minute)",
     "private_key_copied": "Clé privée temporairement copiée dans le presse-papiers",
     "private_key_copied_time": "(conservée pendant 1 minute)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Mot de passe incorrect",
     "unknown_error": "Impossible de déverrouiller votre compte. Veuillez réessayer.",
     "hardware_error": "C’est un compte portefeuille matériel, vous ne pouvez pas exporter votre clé privée.",

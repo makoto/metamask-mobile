@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(armazenada por 1 minuto)",
     "private_key_copied": "Chave privada copiada temporariamente para a área de transferência",
     "private_key_copied_time": "(armazenada por 1 minuto)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Senha incorreta",
     "unknown_error": "Não foi possível desbloquear sua conta. Tente novamente.",
     "hardware_error": "Esta é uma conta de carteira de hardware; não é possível exportar sua chave privada.",

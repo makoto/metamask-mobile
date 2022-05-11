@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(хранится 1 минуту)",
     "private_key_copied": "Закрытый ключ временно скопирован в буфер обмена",
     "private_key_copied_time": "(хранится 1 минуту)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Неверный пароль",
     "unknown_error": "Не удалось разблокировать ваш счет. Повторите попытку.",
     "hardware_error": "Это счет аппаратного кошелька, вы не можете экспортировать свой закрытый ключ.",

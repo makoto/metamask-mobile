@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(lưu trữ trong 1 phút)",
     "private_key_copied": "Đã tạm thời sao chép khóa cá nhân vào bộ nhớ đệm",
     "private_key_copied_time": "(lưu trữ trong 1 phút)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Mật khẩu không chính xác",
     "unknown_error": "Không thể mở khóa tài khoản của bạn. Vui lòng thử lại.",
     "hardware_error": "Đây là một tài khoản ví cứng, bạn không thể xuất khóa cá nhân của mình.",

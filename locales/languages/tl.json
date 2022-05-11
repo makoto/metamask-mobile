@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(nakaimbak ng 1 minuto)",
     "private_key_copied": "Nakopya ang pribadong key sa clipboard",
     "private_key_copied_time": "(nakaimbak ng 1 minuto)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "Mali ang password",
     "unknown_error": "Hindi ma-unlock ang iyong account. Pakisubukan ulit.",
     "hardware_error": "Isa itong hardware wallet account, hindi mo ma-export ang iyong pribadong key.",

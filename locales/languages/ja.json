@@ -631,6 +631,8 @@
     "seed_phrase_copied_time": "(1分間保管されます)",
     "private_key_copied": "秘密鍵がクリップボードに一時的にコピーされました",
     "private_key_copied_time": "(1分間保管されます)",
+    "private_key_copied_ios": "Private key temporarily copied to clipboard\n",
+    "private_key_copied_android": "Private key copied to clipboard\n",
     "warning_incorrect_password": "パスワードが正しくありません",
     "unknown_error": "アカウントのロックを解除できませんでした。もう一度お試しください。",
     "hardware_error": "これはハードウェアウォレットアカウントであるため、秘密鍵をエクスポートできません。",
